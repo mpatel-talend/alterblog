@@ -1,4 +1,4 @@
-baseurl = "http://alterblog.innoprenuer.github.io/"
+baseurl = "http://alterblog.mpatel14.github.io/"
 title = "A Small World"
 canonifyurls = true
 paginate = 10

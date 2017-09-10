@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on A Small World</title>
+    <link>https://mpatel14.github.io/alterblog/post/</link>
+    <description>Recent content in Posts on A Small World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mpatel14.github.io/alterblog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://mpatel14.github.io/alterblog/post/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mpatel14.github.io/alterblog/post/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Gitbhu markdoen</title>
+      <link>https://mpatel14.github.io/alterblog/post/second-post/</link>
+      <pubDate>Sun, 10 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://mpatel14.github.io/alterblog/post/second-post/</guid>
+      <description>(GitHub-Flavored) Markdown Editor Basic useful feature list:
+ Ctrl+S / Cmd+S to save the file Ctrl+Shift+S / Cmd+Shift+S to choose to save as Markdown or HTML Drag and drop a file into here to load it File contents are saved in the URL so you can share files  I&amp;rsquo;m no good at writing sample / filler text, so go write something yourself.
+Look, a list!
+ foo bar baz  And here&amp;rsquo;s some code!</description>
+    </item>
+    
+  </channel>
+</rss>

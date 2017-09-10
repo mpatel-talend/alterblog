@@ -4,6 +4,7 @@ canonifyurls = true
 paginate = 10
 theme = "startbootstrap-clean-blog"
 languageCode = "en-us"
+publishDir = "docs"
 copyright = "Code released under the Apache 2.0 license."
 #googleAnalytics = "UA-123-45" # delete or comment to disable Google Analytics JS generation
 disqusShortname = "mpatel" #delete or comment to disable Disqus comments

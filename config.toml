@@ -1,0 +1,37 @@
+baseurl = "http://alterblog.innoprenuer.github.io/"
+title = "A Small World"
+canonifyurls = true
+paginate = 10
+theme = "startbootstrap-clean-blog"
+languageCode = "en-us"
+copyright = "Code released under the Apache 2.0 license."
+#googleAnalytics = "UA-123-45" # delete or comment to disable Google Analytics JS generation
+disqusShortname = "mpatel" #delete or comment to disable Disqus comments
+
+[author]
+  name = "Manan Patel"
+
+[params]
+  DateForm = "Mon, Jan 2, 2006"
+  Description = "Your site description"
+  Author = "Manan Patel"
+  email = "manan14patel@gmail.com"
+  postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
+  showReadTime = true #set to false to exclude read time from header of post
+
+[[params.social]]
+  title = "twitter"
+  url = "https://twitter.com/manan77patel"
+[[params.social]]
+  title = "github"
+  url = "https://github.com/innoprenuer"
+
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = -200
+[[menu.main]]
+  name = "Archives"
+  url = "/post/"
+  weight = -180
